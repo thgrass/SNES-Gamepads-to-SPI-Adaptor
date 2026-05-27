@@ -1,5 +1,5 @@
 # SNES-Gamepads-to-SPI-Adaptor
-A PCB that converts two SNES controllers to full SPI devices.
+A PCB that converts two SNES controllers to full SPI devices (KiCad 8+ project).
 
 <img src="SNES_SPI_Adaptor.png" alt="3D Preview" style="border: 2px solid #000; border-radius: 5px;" />
 
